@@ -1,0 +1,56 @@
+{
+	"name": [
+		"James",
+		"Matt",
+		"Tyler",
+		"Kallie",
+		"Joseph",
+		"Frank",
+		"Ariana"
+	],
+	"occupation": [
+		"valet driver",
+		"mechanic",
+		"gamer",
+		"streamer",
+		"marketer",
+		"manager"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #hustle# would help them #finish#. I am also a #occupation# and the #hustle# doesn't ever stop. You can't just sit there #expecting# things to work out for you by waiting around doing nothing. "
+	],
+	"expecting": [
+		"anticipating",
+		"awaiting",
+		"hoping",
+		"ready",
+		"wishing",
+		"expecting"
+	],
+	"always": [
+		"rarely",
+		"never",
+		"consistently",
+		"constantly",
+		"hardly",
+		"regularly",
+		"repeatedly",
+		"always"
+	],
+	"actions": [
+		"drives",
+		"calculates",
+		"plays",
+		""
+	],
+	"hustle": [
+		"grind",
+		"hustle",
+		"determination"
+	],
+	"finish": [
+		"finish",
+		"succeed",
+		""
+	]
+}
